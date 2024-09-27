@@ -23,7 +23,7 @@ Observing the plot, Beijings air quality seems to contain higher levels of pollu
 
 
 ## Sources:
----
+
 -Chen,Song. (2019). Beijing Multi-Site Air Quality. UCI Machine Learning Repository. https://doi.org/10.24432/C5RK5G.
 
 -Heinecke, R. (2024) How we calculate our air quality index and why we need it, Breeze Technologies. Available at: https://www.breeze-technologies.de/blog/what-is-an-air-quality-index-how-is-it-calculated/ (Accessed: 25 June 2024). 
