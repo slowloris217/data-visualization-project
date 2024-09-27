@@ -22,7 +22,8 @@ Using Breeze Technologies air quality index, a air quality rating was assigned t
 Observing the plot, Beijings air quality seems to contain higher levels of pollutants then desired a large portion of the time.
 
 
-Sources:
+## Sources:
+---
 
 -Chen,Song. (2019). Beijing Multi-Site Air Quality. UCI Machine Learning Repository. https://doi.org/10.24432/C5RK5G.
 
